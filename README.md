@@ -1,4 +1,2 @@
-# Project Euler
-
-- Language: Python
+#Project_Euler
 
